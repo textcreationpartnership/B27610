@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the death of the Honourable Robert Boyle</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27610</idno><idno type="EEBO-CITATION">31355622</idno>
+  <idno type="VID">205950</idno>
+  <idno type="EEBO-PROQUEST">2240897436</idno>
+  
+            <idno type="STC">Wing O310</idno>
+            <idno type="OCLC">31355622</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205950)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1750:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the death of the Honourable Robert Boyle</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Printed in two columns and enclosed in mourning border, with emblematic headpiece.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Boyle, Robert, 1627-1691 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:205950:1"/>
+            <head>
+               <figure>
+                  <figDesc>skull with shovels, axes, bones and hourglasses</figDesc>
+                  <p>MEMENTO MORI</p>
+               </figure>
+            </head>
+            <head>ON THE DEATH OF THE Honourable ROBERT BOYLE.</head>
+            <lg>
+               <l>NOT least concern'd tho' last our <hi>Muse</hi> appears,</l>
+               <l>With broaken words to bath thy <hi>Ʋrn</hi> in Tears:</l>
+               <l>She thought to hide within her sighing Breast</l>
+               <l>The sullen <hi>Grief,</hi> the <hi>Torments</hi> that opprest</l>
+               <l>Her stiffled <hi>Spirits;</hi> till at length a Flame</l>
+               <l>Broke thro' the <hi>Trance,</hi> amongst the Croud she came</l>
+               <l>Upon thy Sacred <hi>Obsequies</hi> to wait</l>
+               <l>To weep our <hi>Own,</hi> not <hi>Thine</hi> unhappy <hi>Fate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Great <hi>BOYLE</hi> by Birth, Greater by <hi>Knowledge</hi> far,</l>
+               <l>
+                  <hi>Natures</hi> chief Fav'rite, and the brigtest <hi>Star</hi>
+               </l>
+               <l>That <hi>Heav'ns</hi> ere shew'd to guide the <hi>Learned World</hi>
+               </l>
+               <l>Tho' tumb'ling Seas of <hi>Trials,</hi> Waves that hurl'd</l>
+               <l>The tender <hi>Bark,</hi> in quest of <hi>Truth</hi> rig'd out,</l>
+               <l>And often lodg'd her on the Sands of <hi>Doubt,</hi>
+               </l>
+               <l>As oft the <hi>Rocks</hi> of <hi>School Disputes</hi> were made,</l>
+               <l>And wrack't the Hopes of all the <hi>Learned Trade.</hi>
+               </l>
+               <l>But by thy <hi>Labours</hi> guided we may steer</l>
+               <l>Betwixt these <hi>Dangers</hi> thro' an <hi>Ocean</hi> clear</l>
+               <l>And pleasing as thy <hi>Style</hi> enrich't with new</l>
+               <l>
+                  <hi>Ʋseful Discoveries,</hi> and yet always <hi>true.</hi>
+               </l>
+               <l>
+                  <hi>Truth</hi> was thy aim, <hi>Experiments</hi> the way,</l>
+               <l>And <hi>Nature</hi> yielded to thy least <hi>Essay.</hi>
+               </l>
+               <l>Above the toyl of <hi>Bus'ness</hi> thy high Mind</l>
+               <l>Stoopt not to <hi>glitt'ring Earth,</hi> only enclin'd</l>
+               <l>To <hi>Ʋniversal Good,</hi> and valued more</l>
+               <l>An <hi>Ʋseful Secret</hi> than the <hi>Indian Store,</hi>
+               </l>
+               <l>Or <hi>Great Arcanum,</hi> and that Day was lost</l>
+               <l>When tedious <hi>Bus'ness</hi> or <hi>Diversion</hi> crost</l>
+               <l>Thy chief <hi>Design,</hi> th' <hi>Advancing Knowledge</hi> rais'd</l>
+               <l>In <hi>Blooming Youth,</hi> and to thy <hi>last</hi> it blaz'd.</l>
+               <l>In this thy sickly hours were spent, and then</l>
+               <l>Thy <hi>Life</hi> seem'd lent Three but for other <hi>Men.</hi>
+               </l>
+               <l>To you the <hi>Air</hi> new qualities reveal'd,</l>
+               <l>Nor ought within her thin Embrace conceal'd</l>
+               <l>The Pow'rs of <hi>Heat</hi> and <hi>Cold,</hi> of <hi>Moist</hi> and <hi>Dry,</hi>
+               </l>
+               <l>The Cause of <hi>Fixtness</hi> and <hi>Fluidity</hi>
+               </l>
+               <l>You sought, you found: Not the <hi>Seas Depth</hi> could hide</l>
+               <l>Nor hidden Qualities in <hi>Flame</hi> reside.</l>
+               <l>The far-stretcht <hi>Ʋniverse</hi> to you seem'd small,</l>
+               <l>You reacht, and yet not only reacht at all.</l>
+               <l>To bring thy several great <hi>Designs</hi> in view,</l>
+               <l>Were to repeat the <hi>Labours</hi> you went thro'.</l>
+            </lg>
+            <lg>
+               <l>Nor were thy thoughts less influenc'd from <hi>above,</hi>
+               </l>
+               <l>Thy Soul was fired with <hi>Seraphick Love.</hi>
+               </l>
+               <l>This <hi>Christian Virtuoso</hi> shew'd the Age,</l>
+               <l>Men may for <hi>Nature</hi> and for <hi>God</hi> Engage.</l>
+               <l>
+                  <hi>Greatness of Mind</hi> suits both, and he that's Wise,</l>
+               <l>Offers to <hi>Heav</hi>'n the <hi>grateful'st Sacrifice.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At last, when <hi>Nature</hi> call'd, he slept away,</l>
+               <l>Nor ope'd his Eyes till in <hi>Eternal Day:</hi>
+               </l>
+               <l>No Pain, no Sickness rudely forc't his Breath,</l>
+               <l>'Twas a <hi>Translation</hi> rather than a <hi>Death.</hi>
+               </l>
+               <l>Th' <hi>Airs weight</hi> grew heavy for his purer <hi>Mind,</hi>
+               </l>
+               <l>And on its <hi>Spring</hi> it mounted up to find</l>
+               <l>A Nature like it self, <hi>Divine</hi> and Free</l>
+               <l>From Earthly Dross and all Impurity.</l>
+               <l>
+                  <hi>Equilibrated</hi> there't at Rest remains,</l>
+               <l>Scorning our <hi>Joys,</hi> and freed from all our <hi>Pains.</hi>
+               </l>
+               <l>Fill'd with the <hi>Knowledge</hi> which below it sought;</l>
+               <l>Fill'd, yet acquir'ing for th' enlarged <hi>Thought,</hi>
+               </l>
+               <l>Grows more and more Capacious to receive,</l>
+               <l>As the <hi>Eternal Mind</hi> vouchsafes to give.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Samuel Smith</hi> at the <hi>Prince</hi>'s <hi>Arms</hi> in St. <hi>Paul</hi>'s Church-yard. 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
